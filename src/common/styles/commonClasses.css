@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+.column{
+    flex-direction: column;
+}
+.absolute-center{
+    justify-content: center;
+    align-items: center;
+}
+.max-width{
+    width: 1024px;
+    margin: auto;
+}
+.cur-po{
+    cursor: pointer;
+}
