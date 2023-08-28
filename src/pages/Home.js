@@ -1,8 +1,10 @@
 import React from 'react';
-import Header from'../components/header/Header;
+import Header from'../components/header/Header';
 import TopPicks from '../components/topPicks/TopPicks';
 import MainFold from '../components/mainFold/MainFold';
 import Footer from '../components/Footer/footer';
+import AppDownload from '../components/appDownload/AppDownload';
+
 
 const Home = () => {
     return (
